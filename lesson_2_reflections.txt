@@ -21,7 +21,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+	Branching helps me make different (semi-drastic) versions of a project
+	without having to commit the entire project to this new change.
 
 How do the diagrams help you visualize the branch structure?
 
