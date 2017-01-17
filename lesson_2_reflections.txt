@@ -34,4 +34,9 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	The automatic merging will use the reference diff to decide what to remove
+	and what to add appropriately. However, when there's a discrepancy, git 
+	will inform you of a conflict and will have you manually go an change it
+	so that git doesn't merge changes that could work against eachother or 
+	be redundant.
 	
