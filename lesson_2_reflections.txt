@@ -25,7 +25,8 @@ organized? How would branches help?
 	without having to commit the entire project to this new change.
 
 How do the diagrams help you visualize the branch structure?
-
+	The diagrams help me see where the branches lead to, as well as where
+	they root from so I can see the pathways of my project tree.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
