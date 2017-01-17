@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+sWhat happens when you initialize a repository? Why do you need to do it?
 	It turns the current directory into a repository.
 	This enables the metadata of all of the files to start being tracked,
 	meaning you can start reviewing the commits and changes to all the
@@ -18,7 +18,6 @@ change?
 	git diff --staged 	- compares [commit 1] to the [staging area]
 	git diff commit1 commit 2	- compares the two commits
 
-
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 	Branching helps me make different (semi-drastic) versions of a project
@@ -30,7 +29,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+	The result merges the changes of two branches together, using the last
+	common ancestor between the two branches as the reference point. The diagram represents it as a tree format.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
