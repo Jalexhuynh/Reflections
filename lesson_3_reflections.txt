@@ -1,12 +1,16 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    Perhaps so that way you could use the remote repository as a backup,
+    to save your work onto an online server. Or to be able to use another
+    computer aisde from your own, or work collaboratively.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    There might be times when you are not ready to pull or push changes.
+    If you pushed too early, you might have incomplete code that gets sent.
+    If you pulled too early, it might overwrite what you currently working on.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
