@@ -40,4 +40,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would probably want to make changes in a separate branchs in order to keep
+    the master branch fully functional at all times. That way I can keep a functional copy of the code present, while making changes incrementally.
+    However, if there is only a small change or small typo that needs to be fixed, I would probably update the master branch itself.
