@@ -1,0 +1,12 @@
+# TODO Brainstorm some ideas for collaborative project(s)
+
+What are some things you want to build but seem too complex or overwhelming?
+
+Which types of projects lend themselves to collaboration? Individual work?
+
+What project might you pick that would specifically help you learn a skill
+you have been wanting to pick up?
+
+Find two examples of software you use or might use in web development that
+are developed on GitHub (such as jQuery). Clone their repositories and explore
+the project files in your favorite text editor (https://github.com/showcases/text-editors).
