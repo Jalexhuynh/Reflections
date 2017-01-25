@@ -1,12 +1,46 @@
 # TODO Brainstorm some ideas for collaborative project(s)
 
 What are some things you want to build but seem too complex or overwhelming?
+-	I've always wanted to try creating more of an animated resume-esque type website.
+	(Such as this, for example: http://preview.themeforest.net/item/selfless-one-page-personal-vcard-html5-template/full_screen_preview/3773043)
+
+	I've also wanted to try creating basic algorithms, but I feel like I haven't
+	practiced enough with scripting languages to understand common methods and notation.
+
 
 Which types of projects lend themselves to collaboration? Individual work?
+-	I would say the scope or purpose of the project determines how "collaborative" a project should be.
+	For example, the personal website above, I feel, should be done individually since it 
+	should be showcasing your abilities to whoever visits the side.
+
+	But on the other hand larger projects such as node.js, in which the purpose is for many
+	users to utilize it for their own reasons, should be handled collaboratively. This is 
+	because potentially in the end, the project would become too large for one person to 
+	maintain, and with more input comes more double-checking and possibly more beneficial 
+	additions that you might not have considered alone.
+
 
 What project might you pick that would specifically help you learn a skill
 you have been wanting to pick up?
+-	I picked up the Javascript course off of Udacity, and I'm currently working on the resume template.
+	But although I am practicing with jQuery (big plus), I was hoping to get more understanding
+	of animating a website.
+
+	Additionally, although I'm slowly beginning to understand -how- to call jQuery to format code,
+	I'm still pretty left in the dark on how the jQuery repository actually works.
+
 
 Find two examples of software you use or might use in web development that
 are developed on GitHub (such as jQuery). Clone their repositories and explore
 the project files in your favorite text editor (https://github.com/showcases/text-editors).
+-	I was pretty excited to clone the jQuery repository, but then afterwards I quickly
+	realized that I wasn't sure how the multitude of folders and files actually worked.
+
+	I had asked a friend who is a software Engineer at Riot Games about where his work mostly lies,
+	and he had replied that nearly all of his work revolved around Node.js.
+
+	When I looked up job positings for entry-level web developer positions, I saw numerous 
+	desirable qualifications such as node.js, angular.js, etc etc.
+
+	I've since cloned both into my GitHub repository, but I don't know if I'm familiar enough
+	with javascript yet to fully understand either, haha.
